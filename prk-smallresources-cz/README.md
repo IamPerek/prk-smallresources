@@ -1,6 +1,4 @@
-# Perek • https://linktr.ee/IamPerek
-
-# [STANDALONE] prk-smallresources
+# [STANDALONE] prk-smallresources https://linktr.ee/IamPerek
 
 # [CZ] Toto je Česká verze prk-smallresources
 
