@@ -2,9 +2,7 @@
 
 # [STANDALONE] prk-smallresources #
 
-# [CZ] #
-
-Toto je Česká verze prk-smallresources
+# [CZ] Toto je Česká verze prk-smallresources #
 
 #### Pokud používáte QBCore, musíte tyto věci odstranit z 'qb-smallresources'
 ```lua
