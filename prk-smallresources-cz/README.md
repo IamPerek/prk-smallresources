@@ -10,7 +10,6 @@ Odstran z 'qb-smallresources/client' afk.lua a discord.lua
 ------------------------------------------------------------
 Odstran z 'qb-smallresources/server' afk.lua
 ```
-# Všechny funkce můžete najít napsané v prk-smallresources-cz/README.md
 # Pokud jste našli nějaké bugy nebo máte nějaké nápady co bych tam mohl ještě přidat tak mi napište na Discord Perek#5552 nebo na ačkoli jakou sociální síť kterou mám na stránce https://linktr.ee/IamPerek :)
 
 Funkce:
