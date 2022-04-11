@@ -4,7 +4,7 @@
 
 #### If you are using QBCore you have to remove these things from 'qb-smallresources'
 ```lua
-Remove in 'qb-smallresources/client' afk.lua and discord.lua
+Remove in 'qb-smallresources/client' afk.lua, discord.lua, handsup.lua and point.lua
 ------------------------------------------------------------
 Remove in 'qb-smallresources/server' afk.lua
 ```
