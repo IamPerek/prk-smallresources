@@ -4,7 +4,7 @@
 
 #### Pokud používáte QBCore, musíte tyto věci odstranit z 'qb-smallresources'
 ```lua
-Odstran z 'qb-smallresources/client' afk.lua a discord.lua
+Odstran z 'qb-smallresources/client' afk.lua, discord.lua, handsup.lua a point.lua
 ------------------------------------------------------------
 Odstran z 'qb-smallresources/server' afk.lua
 ```
